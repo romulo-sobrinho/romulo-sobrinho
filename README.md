@@ -23,4 +23,4 @@
 </div>
 
 
-#### "Só tem uma loucura na vida: fazer as mesmas coisas e querer resultados diferentes"
+#### "What I cannot create, I do not understand"
