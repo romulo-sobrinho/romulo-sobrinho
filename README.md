@@ -22,17 +22,29 @@
   <a href="https://github.com/romulo-sobrinho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
+
 <hr>
+
 
 <h2 align="center">🔥 Tecnlogias que utilizo 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,ejs,mongodb,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,mongodb,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
   </a>
 </p>
 <br>
+
+
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/romulo-sobrinho/romulo-sobrinho/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
 
 
 ## Github stats
