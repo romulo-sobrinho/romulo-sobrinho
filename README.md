@@ -1,4 +1,5 @@
 # Oi, sou o Rômulo Sobrinho 🧑‍🚒
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romulo-sobrinho.romulo-sobrinho">
 
 ### Portifólio
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://romulo-sobrinho.github.io/portifolio/)
