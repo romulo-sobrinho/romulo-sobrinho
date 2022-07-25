@@ -29,6 +29,6 @@
 
 
 ![Snake animation](https://github.com/romulo-sobrinho/romulo-sobrinho/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg
+![GitHub Snake dark](github-snake-dark.svg)
 
 ## "What I cannot create, I do not understand"
