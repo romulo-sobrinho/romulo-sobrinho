@@ -28,7 +28,6 @@
 </div>
 
 
-![Snake animation](https://github.com/romulo-sobrinho/romulo-sobrinho/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/romulo-sobrinho/romulo-sobrinho/blob/output/github-contribution-grid-snake.gif)
 
 ## "What I cannot create, I do not understand"
