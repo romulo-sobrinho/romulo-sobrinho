@@ -28,4 +28,6 @@
 </div>
 
 
+![Snake animation][https://github.com/romulosobrinho/romulo-sobrinho/blob/output/github-contribution-grid-snake.svg]
+
 ## "What I cannot create, I do not understand"
