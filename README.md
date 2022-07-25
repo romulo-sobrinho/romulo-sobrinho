@@ -5,14 +5,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi+👋;+Sou+Sou+o+Rômulo+Sobrinho!+🧑‍;&center=true&size=30">
   </a>
 </h1>
-# Oi, sou o Rômulo Sobrinho 🧑‍🚒
 
-### Portifólio
-[![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://romulo-sobrinho.github.io/portifolio/)
+<br>
+<p align="center">
+  Olá, Eu sou o Rômulo Sobrinho, Web Developer
+  <br>
+  <br>
+  💻 Adoro aprender novas tecnologias e frameworks.
+  <br>
+  🧑‍💼 Atualmente estou desenvolvendo projetos em NOJDE JS
+</p>
 
-### Mídias Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulo-sobrinho/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romulo-sobrinho)
+<div align="center"> 
+  <a href = "mailto:romulosilva001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://in.linkedin.com/in/romulo-sobrinho" target="_blank"><img src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/romulo-sobrinho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
 
 
 ## Github stats
