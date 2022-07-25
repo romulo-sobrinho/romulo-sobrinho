@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=romulo-sobrinho.romulo-sobrinho">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi+👋;+Sou+o+Rômulo+Sobrinho!+🧑‍;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi+👋;+Sou+Sou+o+Rômulo+Sobrinho!+🧑‍;&center=true&size=30">
   </a>
 </h1>
 # Oi, sou o Rômulo Sobrinho 🧑‍🚒
