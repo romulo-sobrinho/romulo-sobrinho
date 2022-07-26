@@ -13,7 +13,7 @@
   <br>
   💻 Adoro aprender novas tecnologias e frameworks.
   <br>
-  🧑‍💼 Atualmente estou desenvolvendo projetos em NODE JS
+  🧑‍💼 Atualmente estou desenvolvendo projetos em NODE JS e EXPRESS
 </p>
 
 <div align="center"> 
