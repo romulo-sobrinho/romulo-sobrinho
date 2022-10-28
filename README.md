@@ -36,6 +36,15 @@
 </p>
 <br>
 
+<h2 align="center">🔥 Tecnlogias que estou aprendendo 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" /><br>
+  </a>
+</p>
+<br>
+
 <hr>
 
 <div align="center">
