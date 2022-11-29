@@ -28,9 +28,20 @@
 
 <h2 align="center">🔥 Tecnlogias que utilizo 🔥</h2>
 <br>
+
+<h3 align="center">🔥 Back End 🔥</h3>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,mongodb,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mongodb,mysql,redis,docker,git,github" /><br>
+  </a>
+</p>
+<br>
+
+<h3 align="center">🔥 Front End 🔥</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
   </a>
 </p>
@@ -40,7 +51,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" /><br>
+    <img src="https://skillicons.dev/icons?i=nestjs" /><br>
   </a>
 </p>
 <br>
