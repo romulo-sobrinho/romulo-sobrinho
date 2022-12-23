@@ -51,7 +51,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs" /><br>
+    <img src="https://skillicons.dev/icons?i=vuejs" /><br>
   </a>
 </p>
 <br>
