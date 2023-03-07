@@ -13,7 +13,7 @@
   <br>
   💻 Adoro aprender novas tecnologias e frameworks.
   <br>
-  🧑‍💼 Atualmente estou desenvolvendo projetos com React, Node JS e Express
+  🧑‍💼 Atualmente estou desenvolvendo projetos referentes a geolocalização com Laravel, Vue, Inertia
 </p>
 
 <div align="center"> 
@@ -33,7 +33,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mongodb,mysql,redis,docker,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,ts,js,nodejs,express,postgres,mongodb,mysql,redis,docker,git,github" /><br>
   </a>
 </p>
 <br>
@@ -42,7 +42,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vue,inertia" />
   </a>
 </p>
 <br>
