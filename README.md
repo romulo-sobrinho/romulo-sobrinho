@@ -42,7 +42,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,inertia,html,css,javascript,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vue,html,css,javascript,bootstrap" />
   </a>
 </p>
 <br>
